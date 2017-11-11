@@ -1,0 +1,24 @@
+{
+  "name": "planner",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "moment": "^2.19.1",
+    "react": "^16.1.0",
+    "react-datetime": "^2.10.3",
+    "react-dom": "^16.1.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "styled-components": "^2.2.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
